@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I am Bill Zhang!
+
+I am currently a statistics & computer science student at the University of Illinois at Urbana-Champaign. I was born in Pennsylvania but spent many years in Shanghai. I am interested in all fields of computing, but especially artificial intelligence and machine learning.
 
 <!--
 **JhaoZ/JhaoZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
