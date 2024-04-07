@@ -28,7 +28,8 @@ Nice to meet you! I'm always looking for opportunities to expand my experience i
 
 Contact
 -
-If you want to contact me, you can [email me](mailto:billjz2@illinois.edu) here.
+If you want to contact me, you can [email me](mailto:billjz2@illinois.edu) here. <br>
+I'm always done to have [connect with others](https://www.linkedin.com/in/bill-zhang-890735209/) on Linkedin!
 
 <!--
 **JhaoZ/JhaoZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
