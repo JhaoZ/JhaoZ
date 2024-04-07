@@ -1,4 +1,4 @@
-### Hi, I am Bill Zhang!
+### Hi ya, I am Bill Zhang!
 
 I'm a statistics and cs major at University of Illinois Urbana Champaign ([UIUC](https://en.wikipedia.org/wiki/University_of_Illinois_Urbana-Champaign))
 <!--
