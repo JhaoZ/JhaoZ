@@ -6,7 +6,7 @@ A little about me
 -
 I'm a second-year [Statistics📊 and CS💻 major](https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-statistics-computer-science) at the University of Illinois Urbana Champaign🌽([UIUC](https://en.wikipedia.org/wiki/University_of_Illinois_Urbana-Champaign)). I'm also pursuing minors in linguistics💬 and math🧮.
 
-I grew up in 上海 Shanghai, China 🇨🇳. My favorite thing about Shanghai is the [transportation system🚇](https://en.wikipedia.org/wiki/Shanghai_Metro).
+I grew up in 上海 Shanghai, China 🇨🇳.
 
 I'm interested in a lot in the field of tech, but mostly data science, machine learning, tech in finance, computational linguistics, algorithms, and [competitive coding](https://codeforces.com/profile/billJZ)🧑‍💻. 
 
