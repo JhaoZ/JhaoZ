@@ -17,7 +17,7 @@ Experience
 
 Tech
 -
-Language: Java, Python, C#, C++, Kotlin (one of my favorites), Javascript, HTML/CSS, SQL, R, (I also know a bit of BASIC) <br>
+Language: Java, Python, C#, C++, Kotlin (one of my favorites), Javascript, HTML/CSS, SQL, R, (and a tad bit of BASIC) <br>
 Framework & Libraries: Pandas, Matplotlib, Numpy, Flask, Sklearn, Beautiful Soup, MongoDB, Tailwind CSS, .NET Core, Discord.py, Bootstrap
 
 Are you a recruiter?
