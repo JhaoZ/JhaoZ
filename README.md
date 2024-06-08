@@ -12,7 +12,7 @@ I'm interested in a lot in the field of tech, but mostly data science, machine l
 
 Experience
 -
-* Incoming Software Engineer Intern @ [CME Group](https://www.cmegroup.com/)
+* Software Engineer Intern @ [CME Group](https://www.cmegroup.com/)
 * Prior Software Developer Intern @ [Milliman](https://us.milliman.com/en/)
 
 Tech
