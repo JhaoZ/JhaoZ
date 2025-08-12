@@ -4,22 +4,22 @@
 
 A little about me
 -
-I'm a third-year [Statistics📊 and CS💻 major](https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-statistics-computer-science) at the University of Illinois Urbana Champaign🌽([UIUC](https://en.wikipedia.org/wiki/University_of_Illinois_Urbana-Champaign)). I'm also pursuing minors in linguistics💬 and math🧮.
+I'm a Master's of Computer Science student at the University of Illinois Urbana Champaign🌽([UIUC](https://en.wikipedia.org/wiki/University_of_Illinois_Urbana-Champaign)). I did my Bachelor's here as well, graduting in 3 years, and I studied [Statistics📊 and CS💻](https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-statistics-computer-science).
 
 I grew up in 上海 Shanghai, China 🇨🇳.
 
-I'm interested in a lot in the field of tech, but mostly data science, machine learning, tech in finance, high frequency trading, computational linguistics, algorithms, and [competitive coding](https://codeforces.com/profile/billJZ)🧑‍💻. 
+I'm most interested in systems and low level software development, such as infrastructure, compilers, distributed systems, and high frequency trading. I also like learning about algorithms and do a bit of [competitive coding](https://codeforces.com/profile/billJZ)🧑‍💻. 
 
 Experience
 -
-* Software Engineer Intern @ [Meta](https://www.meta.com/about/)
-* Machine Learning Intern (Tech Incubator Program) @ [Capital One](https://www.capitalone.com/)
+* Prior Software Engineer Intern @ [Meta](https://www.meta.com/about/)
+* Prior Machine Learning Intern (Tech Incubator Program) @ [Capital One](https://www.capitalone.com/)
 * Prior Software Engineer Intern @ [CME Group](https://www.cmegroup.com/)
 * Prior Software Developer Intern @ [Milliman](https://us.milliman.com/en/)
 
 Tech
 -
-Languages: Java, Python, C++, C#, C, Kotlin, Javascript, HTML/CSS, SQL, R, Verilog (and a tad bit of BASIC) <br>
+Languages:  C++, Java, Python, C#, C, Kotlin, Javascript, HTML/CSS, SQL, R, Verilog (and a tad bit of BASIC) <br>
 Framework & Libraries: Pandas, Matplotlib, Numpy, Flask, Sklearn, Beautiful Soup, MongoDB, Tailwind CSS, .NET Core, Discord.py, Bootstrap, Kafka, Zookeeper
 
 Are you a recruiter?
