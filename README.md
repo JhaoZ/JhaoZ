@@ -4,7 +4,7 @@
 
 A little about me
 -
-I'm a Master's of Computer Science student at the University of Illinois Urbana Champaign🌽([UIUC](https://en.wikipedia.org/wiki/University_of_Illinois_Urbana-Champaign)). I did my Bachelor's here as well, graduting in 3 years, and I studied [Statistics📊 and CS💻](https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-statistics-computer-science).
+I'm a Master's of Computer Science student at the University of Illinois Urbana Champaign🌽([UIUC](https://en.wikipedia.org/wiki/University_of_Illinois_Urbana-Champaign)). I did my Bachelor's here as well, graduating in 3 years, and I studied [Statistics📊 and CS💻](https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-statistics-computer-science).
 
 I grew up in 上海 Shanghai, China 🇨🇳.
 
