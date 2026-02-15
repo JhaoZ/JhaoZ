@@ -21,7 +21,7 @@ Experience
 
 Tech
 -
-Languages:  C++, Java, Python, C#, C, Kotlin, Javascript, HTML/CSS, SQL, R, Verilog (and a tad bit of BASIC) <br>
+Languages:  C++, Java, Python, Go, C#, C, Kotlin, Javascript, HTML/CSS, SQL, R, Verilog (and a tad bit of BASIC) <br>
 Framework & Libraries: Pandas, Matplotlib, Numpy, Flask, Sklearn, Beautiful Soup, MongoDB, Tailwind CSS, .NET Core, Discord.py, Bootstrap, Kafka, Zookeeper
 
 Are you a recruiter?
