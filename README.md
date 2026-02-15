@@ -12,9 +12,14 @@ I'm most interested in systems and low level software development, such as infra
 
 Experience
 -
+2026
+* Embedded Systems Software Engineer Intern @ [Rivian and Volkswagen Group Technologies](https://rivianvw.tech/)
+2025
 * Prior Software Engineer Intern @ [Meta](https://www.meta.com/about/)
 * Prior Machine Learning Intern (Tech Incubator Program) @ [Capital One](https://www.capitalone.com/)
+2024
 * Prior Software Engineer Intern @ [CME Group](https://www.cmegroup.com/)
+2023
 * Prior Software Developer Intern @ [Milliman](https://us.milliman.com/en/)
 
 Tech
